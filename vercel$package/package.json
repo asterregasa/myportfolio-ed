@@ -1,0 +1,17 @@
+json
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "html",
+    "static"
+  ],
+  "author": "Aster Regasa",
+  "license": "MIT"
+}
